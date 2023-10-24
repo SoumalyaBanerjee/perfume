@@ -35,7 +35,7 @@ and two perfume photographs that is rendered in index.html.
    
        [website: OpenJDK Downloads.](https://adoptium.net/temurin/releases/)https://adoptium.net/temurin/releases/)
    
-        ![image](https://github.com/SoumalyaBanerjee/perfume/assets/40776477/9ff26dc6-7580-4955-8a6c-d9372b92a4f6)
+        ![image](JAVA_INSTALL_PHOTO.png)
 
         Accept the License Agreement:
 
