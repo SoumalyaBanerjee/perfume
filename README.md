@@ -12,6 +12,8 @@ and two perfume photographs that is rendered in index.html.
 the local path where the git repo is pointed to is :
 C:\Users\souma\OneDrive\Desktop\perfume\code\perfume
 
+using mobaxterm for git push and administrator power shell for firebase commands
+
 
 ## Dependencies :
 
