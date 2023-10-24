@@ -1,4 +1,4 @@
-# perfume
+# perfume (Windows based machine deployment)
 
 ## The public folder currently contains :
 index.html
@@ -66,5 +66,29 @@ and two perfume photographs that is rendered in index.html.
         To verify that Java is installed correctly, open a Command Prompt or PowerShell window and run the following command:
 
         java -version
+
+## 3. Install Firebase :
+
+      npm install -g firebase-tools
+
+      npm install firebase
+
+      firebase login
+
+      firebase init
+
+      firebase init hosting
+
+      firebase emulators:start
+
+      locally in your browser check :
+      http://127.0.0.1:5000 (UI should be up and running)
+
+      firebase deploy
+
+
+      
+
+      
 
    
