@@ -8,7 +8,7 @@ style.css
 and two perfume photographs that is rendered in index.html.
 
 
-Dependencies :
+## Dependencies :
 
 1. Node.js and npm :
       Download Node.js:
