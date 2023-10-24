@@ -1,6 +1,7 @@
 # perfume (Windows based machine deployment)
 
 ## The public folder currently contains :
+
 index.html
 
 style.css
