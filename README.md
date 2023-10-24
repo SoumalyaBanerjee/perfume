@@ -72,7 +72,7 @@ C:\Users\souma\OneDrive\Desktop\perfume\code\perfume
 
         java -version
 
-## 3. Install Firebase :
+## 3. Install and deploy front end on Firebase :
 
       npm install -g firebase-tools
 
