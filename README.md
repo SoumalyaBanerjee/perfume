@@ -1,9 +1,12 @@
 # perfume
 
 ## The public folder currently contains :
-index.html
+`index.html
+
 style.css
-and two perfume photographs that is rendered in index.html.
+
+and two perfume photographs that is rendered in index.html.`
+
 
 Dependencies :
 
