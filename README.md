@@ -1,6 +1,6 @@
-# perfume
+## perfume
 
-The public folder currently contains :
+# The public folder currently contains :
 index.html
 style.css
 and two perfume photographs that is rendered in index.html.
