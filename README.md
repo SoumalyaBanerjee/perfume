@@ -10,7 +10,7 @@ and two perfume photographs that is rendered in index.html.
 
 ## Dependencies :
 
-1. Node.js and npm :
+## 1. Node.js and npm :
       Download Node.js:
 
       Visit the official Node.js website to download the installer for your Windows system:
@@ -30,7 +30,7 @@ and two perfume photographs that is rendered in index.html.
        node -v
        npm -v
 
-2. Java :
+## 2. Java :
        Download Java Development Kit (JDK):
    
        [website: OpenJDK Downloads.](https://adoptium.net/temurin/releases/)https://adoptium.net/temurin/releases/)
