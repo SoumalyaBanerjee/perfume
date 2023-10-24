@@ -1,4 +1,4 @@
-# perfume website creation (Windows based machine deployment)
+# Perfume website creation (Windows based machine deployment)
 
 ## The public folder currently contains :
 
