@@ -8,6 +8,10 @@ style.css
 and two perfume photographs that is rendered in index.html.
 
 
+the local path where the git repo is pointed to is :
+C:\Users\souma\OneDrive\Desktop\perfume\code\perfume
+
+
 ## Dependencies :
 
 ## 1. Node.js and npm :
